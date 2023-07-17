@@ -73,6 +73,20 @@ nav {
     padding: 5%;
 }
 
+@media (max-width: 1028px) {
+
+    .skills-image {
+        width: 60%;
+        position: static;
+        transform: rotate(0);
+    }
+
+    #skills {
+        text-align: center;
+    }
+
+}
+
 /* Skill sections */
 
 .skill-box {
