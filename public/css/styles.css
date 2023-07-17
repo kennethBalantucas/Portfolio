@@ -1,0 +1,150 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    overflow-x: hidden; 
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+nav {
+    background-color: #82AAE3;
+}
+
+/* Navigation Bar */
+
+.first-page {
+    font-size: 2.5rem;
+    line-height: 1.5; 
+}
+
+.first-page-header {
+    padding-top: 33%;
+}
+
+.first-section {
+    background-color: #82AAE3;
+
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+
+/* Title Page */
+
+   
+.profile-image {
+    padding-top: 20%;
+}
+
+
+.nav-item {
+    color: black;
+    padding: 0 18px;
+}
+
+
+/* About Me Section */
+
+.about-me {
+    padding: 5%;
+}
+
+
+/* Personal Project Section */
+
+.projects {
+    color: white;
+    background-color: #91D8E4;
+    padding: 5%;
+}
+
+.skillset {
+    padding: 5%;
+}
+
+/* Skill sections */
+
+.skill-box {
+    padding: 5%;
+}
+
+.tech-stack {
+    margin: 20px 20px 50px;
+}
+
+
+/* Footer */
+.social-icon {
+    margin: 20px 10px;
+}
+
+
+
+.navbar {
+    padding: 2%;
+}
+
+
+.last-page {
+    background-color: #BFEAF5;
+    padding: 10%;
+}
+
+/* Last Section */
+
+.need-help {
+    font-size: xx-large;
+}
+
+.copyrights {
+    font-size: smaller;
+}
+
+.freelance {
+    font-size: x-large;
+}
+
+.nav-link {
+    color: black;
+}
+
+
+
+.btn {
+    background: #82AAE3;
+    background-image: -webkit-linear-gradient(top, #82AAE3, #91D8E4);
+    background-image: -moz-linear-gradient(top, #82AAE3, #91D8E4);
+    background-image: -ms-linear-gradient(top, #82AAE3, #91D8E4);
+    background-image: -o-linear-gradient(top, #82AAE3, #91D8E4);
+    background-image: linear-gradient(to bottom, #82AAE3, #91D8E4);
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  

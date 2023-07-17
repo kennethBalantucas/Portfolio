@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.0",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "serverless-http": "^3.2.0"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for Kenneth Balantucas",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Balantucas",
+  "license": "ISC"
+}
